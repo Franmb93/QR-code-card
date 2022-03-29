@@ -1,22 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import qr from "./images/image-qr-code.png";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className="qrcard">
+          <div className="image-container">
+            <img src={qr} className="App-logo" alt="logo" />
+          </div>
+          <div className="text-container">
+            <div className="title-container">
+              <h2>Improve your front-ent skills by building projects</h2>
+            </div>
+            <div className="paragraph-container">
+              <h3>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus non rem excepturi nam assumenda voluptates!
+              </h3>
+            </div>
+          </div>
+        </div>
       </header>
     </div>
   );
