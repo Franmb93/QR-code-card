@@ -1,5 +1,6 @@
 import qr from "./images/image-qr-code.png";
 import "./App.css";
+import React from 'react';
 
 function App() {
   return (
