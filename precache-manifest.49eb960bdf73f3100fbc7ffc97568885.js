@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e079e4a96635c94f0d51",
-    "url": "/QR-code-card/static/css/main.87c713f6.chunk.css"
+    "revision": "e984ea3a19724d9421fe",
+    "url": "/QR-code-card/static/css/main.0bc7da20.chunk.css"
   },
   {
-    "revision": "e079e4a96635c94f0d51",
-    "url": "/QR-code-card/static/js/main.e079e4a9.chunk.js"
+    "revision": "e984ea3a19724d9421fe",
+    "url": "/QR-code-card/static/js/main.e984ea3a.chunk.js"
   },
   {
     "revision": "db20f86d0530543db744",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/QR-code-card/static/js/runtime~main.de19ae04.js"
   },
   {
-    "revision": "f62580a1fbf474b9e338ed83bf21c010",
+    "revision": "a0a72a3a804ea8439639e99f70e1131c",
     "url": "/QR-code-card/index.html"
   }
 ];
